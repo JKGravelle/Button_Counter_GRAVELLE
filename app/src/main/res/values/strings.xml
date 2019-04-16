@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Button-counter-gravelle</string>
+    <string name="Count"></string>
+    <string name="action_settings">Action Settings</string>
+</resources>
