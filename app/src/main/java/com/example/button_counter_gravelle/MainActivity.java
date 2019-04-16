@@ -7,10 +7,6 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.button_counter_gravelle.R;
-
-import org.w3c.dom.Text;
-
 import org.w3c.dom.Text;
 
 public class MainActivity extends AppCompatActivity {
